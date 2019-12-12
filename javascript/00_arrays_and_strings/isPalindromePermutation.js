@@ -9,6 +9,7 @@ function isPalindromePermutation(original_str) {
    const storage = {}
 
    // remove spaces
+   // make everything lower case
    const str = original_str.replace(/ /g, '').toLowerCase();
 
    for (const char of str) {
