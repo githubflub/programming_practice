@@ -2,7 +2,7 @@ console.log("Hello from linked list");
 // Things to know about linked lists
 // They use 2 classes: a node class, a linked list class.
 // Node class has two properties: data and next node.
-// linked list has 2 properties: head and size.
+// linked list has 2 properties: head and size
 
 // Typical insertion methods
 // addFirst
