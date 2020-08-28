@@ -1,0 +1,19 @@
+{
+  "name": "programming_practice",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubflub/programming_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubflub/programming_practice/issues"
+  },
+  "homepage": "https://github.com/githubflub/programming_practice#readme"
+}
